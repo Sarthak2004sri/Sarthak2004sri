@@ -1,16 +1,28 @@
-## Hi there 👋
+Hi there 👋
+👨‍💻 Who am I
 
-<!--
-**Sarthak2004sri/Sarthak2004sri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring software developer focused on C/C++ and Data Structures & Algorithms. I enjoy solving problems and strengthening core programming fundamentals.
 
-Here are some ideas to get you started:
+🚀 What I'm currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Practicing DSA problems
+
+Improving problem-solving skills
+
+Building small projects to sharpen concepts
+
+🛠️ Tools & Technologies
+
+Languages: C, C++, Python (basic), Java (basic)
+
+Web: HTML, CSS, JavaScript (learning)
+
+Concepts: Data Structures & Algorithms
+
+📫 How to reach me
+
+LeetCode: https://leetcode.com/u/sarthak2004it/
+
+Linkedin: https://www.linkedin.com/in/sarthak-srivastava-29554b364/
+
+Email: sarthak2004it@gmail.com
